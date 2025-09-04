@@ -1,1 +1,1 @@
-=
+Emergency-Response-System Uses the user's current location(on the basis of latitude and longitude) provide the nearest medical help and also provides alternatives along with their navigation.Emergency-Response-System Uses the user's current location(on the basis of latitude and longitude) provide the nearest medical help and also provides alternatives along with their navigation.
